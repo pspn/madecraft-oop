@@ -22,3 +22,5 @@
 3. Copy the repository URL from the address bar at the top of this page, and type: **`git clone [paste-your-repository-url]`**
 4. From Eclipse, click File > Import > General > Existing Projects into Workspace > Next > Browse... and select the  **madecraft-oop** directory.
 5. When you're ready to upload your changes back to GitHub, [this video](https://www.youtube.com/watch?v=POGzh6epq7A) will show you how.
+
+### [Option C]
